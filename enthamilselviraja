@@ -1,0 +1,73 @@
+[33mcommit 02363af6e8580863c9bdc8bb9a626665b97880ee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/user-auth[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature/user-auth[m[33m, [m[1;32mmy-new-branch[m[33m, [m[1;32mmain[m[33m)[m
+Author: Senthamilselvi <senthamilraja25@gmail.com>
+Date:   Sun Jun 8 23:25:18 2025 +0800
+
+    fourth commit
+
+[33mcommit 3d0ef256510e3e84e789f8db9139ad5caad8a11d[m
+Author: Senthamilselvi <senthamilraja25@gmail.com>
+Date:   Sun Jun 8 23:17:49 2025 +0800
+
+    third commit
+
+[33mcommit 0b01b8abd404e6070724a7d2b7a25020437bffb9[m
+Author: Senthamilselvi <senthamilraja25@gmail.com>
+Date:   Sun Jun 8 22:54:20 2025 +0800
+
+    second commit
+
+[33mcommit 6fadd4459f031fa8374baf1a2bd4b254d8096b59[m
+Author: Senthamilselvi <senthamilraja25@gmail.com>
+Date:   Sun Jun 8 22:50:49 2025 +0800
+
+    first commit
+
+[33mcommit 0ace718caf378903184c990a41a230bb3d6aefd3[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 22:00:39 2025 +0800
+
+    Removr the bin directory that was accidentally committed.
+
+[33mcommit f27850e503de9cb2061f35e52b0dbe81fd9eb1a4[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 21:35:39 2025 +0800
+
+    Include bin/ in gitignore.
+
+[33mcommit 1f7106005fe59c58e82dce993ad70dfd20348e57[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 21:32:39 2025 +0800
+
+    Add bin.
+
+[33mcommit 59401c209c224a480172ae36df201f2caa491f78[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 21:29:58 2025 +0800
+
+    Add gitignore
+
+[33mcommit 274f6ce16149e3fdca5609b52511e96cc03dbf10[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 21:01:49 2025 +0800
+
+    Rfactor code.
+
+[33mcommit 0b33e6950ecbd52325cc95890a5fb628048cf1c3[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 20:54:10 2025 +0800
+
+    Remove unused code.
+
+[33mcommit 14b3cc83cd96f5583ee077dc6294eb358e980b64[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 20:48:07 2025 +0800
+
+    Fix the bug that prevented users from signing up.
+
+[33mcommit 3c13f961da90a75718e1faba005c9438f139526d[m
+Author: Senthami <selvi@gmail.com>
+Date:   Sun Jun 8 20:29:51 2025 +0800
+
+    Initial commit.
+    
+    This is our first commit.
